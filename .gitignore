@@ -1,0 +1,5 @@
+hash_record.json
+hash_record.txt
+monitor_log.txt
+__pycache__/
+*.pyc
